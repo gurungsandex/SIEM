@@ -3,7 +3,7 @@ Project Overview: In this project, I set up a comprehensive cybersecurity lab on
 
 This project serves as an excellent opportunity for anyone looking to learn cybersecurity, SIEM (Security Information and Event Management), and log analysis using freely available cloud resources. It demonstrates how to build a home lab on Microsoft Azure by deploying a vulnerable Windows virtual machine (VM), capturing security logs, and analyzing potential threats with Microsoft Sentinel.
 
-# Step 1: Set Up Azure Subscription
+# Step 1: Set Up Azure FREE Subscription
 Azure Free Subscription: I started by creating a free Azure subscription. It's simple to obtain a free 30-day subscription with valuable features. However, be sure to cancel the subscription and remove virtual machines and resources once your project or work is complete. Otherwise, you may incur charges if the resources remain active or if the free subscription period is extended.
 ![1](https://github.com/user-attachments/assets/9a468458-45bc-48bc-9f06-78e9e1c0fce6)
 
