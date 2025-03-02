@@ -85,9 +85,14 @@ Geo-enrichment: With this watchlist, Sentinel enriched the logs, allowing me to 
 
 # Why This Project?
 Hands-On Learning: Ideal for exploring cloud security, SIEM, and threat intelligence.
+
 Freely Available Resources: Built using Azure’s free-tier services, making it accessible for learners.
+
 Practical Security Experience: Simulates real-world attack scenarios and teaches log analysis with KQL (Kusto Query Language).
+
 Resume & Portfolio Boost: A valuable project for cybersecurity students, job seekers, and security enthusiasts.
+
+
 A special thanks to Josh Madakor for providing such an incredible learning opportunity. His content continues to inspire and guide aspiring cybersecurity professionals in their journey. 
 
 
